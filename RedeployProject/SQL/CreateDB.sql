@@ -1,8 +1,0 @@
-﻿GO
-DROP DATABASE IF EXISTS Redeploy
-CREATE DATABASE Redeploy
-
-GO
-DROP DATABASE IF EXISTS Redeploy_Test
-CREATE DATABASE Redeploy_Test
---Test
